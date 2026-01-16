@@ -1,16 +1,16 @@
+body {
+    background-color: lightblue;
+}
+
 .lw {
     font-size: 60px;
 }
 
-body {
-    background: lightblue;
-}
-
 p {
-     background: lightblue;
-   font-size: 30px;
+    background-color: lightblue;
+    font-size: 30px;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
