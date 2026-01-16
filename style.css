@@ -3,9 +3,13 @@
 }
 
 body {
-    background:　lightblue
+    background:lightblue
 }
 
 p {
    font-size: 30px;
+}
+
+html{
+    scroll-behavior: smooth;
 }
